@@ -14,13 +14,12 @@
 
 - 🚀 Rapid Prototyping
 - 🛠️ Problem Solving
-- 📊 Data Structures & Algorithms
 - 🌐 Responsive Web Design
 
 ### Projects
 
-- 🌐 **Project Name**: Brief description and link
-- 📱 **Project Name**: Brief description and link
+- 🌐 Baby Shop: Brief description and link
+
 
 ### Connect with Me
 
