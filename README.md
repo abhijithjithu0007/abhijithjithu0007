@@ -22,9 +22,8 @@
 
 ## 📫 Let's Connect!
 
-- LinkedIn: [Abhijith Jithu](https://www.linkedin.com/in/abhijithjithu)
-- Twitter: [@abhijithjithu](https://twitter.com/abhijithjithu)
-- Email: abhijithjithu@example.com
+- LinkedIn: [Abhijith Jithu](https://www.linkedin.com/in/abhijith-v-a19211281/)
+- Email: abhijithabhi36151@gmail.com
 
 ---
 
