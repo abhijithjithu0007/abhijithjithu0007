@@ -20,21 +20,14 @@
 
 - 🌐 Baby Shop: Brief description and link
 
+## 📫 Let's Connect!
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhijith%20Jithu-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/abhijithjithu)
-[![GitHub](https://img.shields.io/badge/GitHub-Abhijith%20Jithu-black?style=flat-square&logo=github&labelColor=black)](https://github.com/abhijithjithu)
-[![Twitter](https://img.shields.io/badge/Twitter-Abhijith%20Jithu-blue?style=flat-square&logo=twitter&labelColor=blue)](https://twitter.com/abhijithjithu)
-
-### GitHub Stats
-
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithjithu&show_icons=true&theme=radical)
-
-### 📫 How to Reach Me
-
-📧 Email: abhijithjithu@example.com
+- LinkedIn: [Abhijith Jithu](https://www.linkedin.com/in/abhijithjithu)
+- Twitter: [@abhijithjithu](https://twitter.com/abhijithjithu)
+- Email: abhijithjithu@example.com
 
 ---
 
-⭐️ Feel free to explore, fork, and star repositories! ⭐️
+<p align="center">
+  <i>Open to opportunities and collaborations!</i>
+</p>
