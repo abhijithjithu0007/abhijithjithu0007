@@ -1,12 +1,12 @@
-# Hi there, I'm Abhijith Jithu! 👋
+ Hi there, I'm Abhijith Jithu! 👋
 
 ## About Me
 
-🌟 Full Stack Developer | 💻 Open Source Contributor | 🌐 Tech Enthusiast
+🌟 Full Stack Developer | 
 
 ### Tech Stack
 
-- 💻 **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3, Sass
+- 💻 **Frontend:** React, Redux, JavaScript (ES6+), HTML5, CSS3
 - 🖥️ **Backend:** Node.js, Express.js, MongoDB, RESTful APIs
 - 🔧 **Tools:** Git, GitHub, VS Code, Postman, Firebase
 
