@@ -49,9 +49,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 </td></tr></table>  
 
@@ -79,21 +76,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhijithjithu0007&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
+    
 
 <br/>  
 
@@ -104,7 +87,5 @@
                     align="center"
                 />
             </a></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
