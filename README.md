@@ -1,9 +1,5 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-### **<div align="center">I'm Abhijith, a full-time full-stack developer🚀</div>**  
+ 
+ **<div align="center">I'm Abhijith, a full-time full-stack developer🚀</div>**  
   
 
 - 🔭 I’m currently intern on [Bridgeon Solutions](https://bridgeon.in/)  
@@ -17,7 +13,7 @@
 
 <br/>  
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="780" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="820" height="340" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
 
 
