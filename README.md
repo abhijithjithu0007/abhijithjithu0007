@@ -16,7 +16,10 @@
   
 
 <br/>  
-<iframe src="https://giphy.com/embed/R03zWv5p1oNSQd91EP" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R03zWv5p1oNSQd91EP">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+</div>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
