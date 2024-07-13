@@ -1,15 +1,6 @@
  
  **<div align="center">I'm Abhijith, a full-time full-stack developer🚀</div>**  
-  
-
-- 🔭 I’m currently intern on [Bridgeon Solutions](https://bridgeon.in/)  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+  <br/>  
 
 <br/>  
 <div align="center">
