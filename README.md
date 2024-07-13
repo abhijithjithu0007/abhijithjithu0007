@@ -17,8 +17,9 @@
 
 <br/>  
 <div align="center">
-  <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="680" height="380" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="780" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 </div>
+
 
 
 ## My Skill Set  
