@@ -1,5 +1,5 @@
  
- **<div align="center">I'm Abhijith, a full-time full-stack developer🚀</div>**  
+ **<div align="center">I'm Abhijith, a full-time full-stack developer</div>**  
   <br/>  
 
 <br/>  
