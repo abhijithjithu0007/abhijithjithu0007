@@ -3,8 +3,8 @@
   <br/>  
 
 <br/>  
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="820" height="340" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
+<div style="width:100%;height:0;padding-bottom:64%;position:relative;">
+  <img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" width="100%" height="450px" style="position:absolute;" allowFullScreen>
 </div>
 
 
