@@ -12,20 +12,22 @@
 
 
 <div>
- Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in .NET development. 
+ Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in Full stack development 
 
-- 💻 Currently, I'm working as a Dotnet Developer, utilizing my expertise in C# and .NET to develop robust web applications.
-- ✍️ I also enjoy sharing my knowledge through technical blogs, where I write about my experiences, tutorials, and best practices.
+- 💻 Currently, I'm working as a full stack developer, utilizing my expertise in front-end and back-end to develop robust web applications.
+- 🌟 Core Skills: I'm proficient in front-end technologies like HTML5, CSS3, JavaScript, and React, along with back-end development using Node.js and Express. My expertise in MongoDB allows me to design efficient and reliable databases that cater to complex application needs.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Shekhar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedIn-Url)
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abhijith-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith--v/)
 </div>
 
+<br>
+<br>
+<br>
 
 
 
-### Frontend  
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
- <div>
+### Skills 
+<p align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,14 +39,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  </div>
-</div>
+</p>
+
 
 
 </td><td valign="top" width="33%">
 
 
 
+<br>
+<br>
+<br>
 
 
 
