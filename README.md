@@ -8,7 +8,6 @@
  <div align="center">I'm Abhijith, a full-time full-stack developer</div>
 <br>
 <br>
-<br>
 
 
 <div>
@@ -20,7 +19,6 @@
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abhijith-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith--v/)
 </div>
 
-<br>
 <br>
 <br>
 
@@ -47,7 +45,6 @@
 
 
 
-<br>
 <br>
 <br>
 
