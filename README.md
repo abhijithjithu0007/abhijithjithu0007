@@ -13,8 +13,8 @@
 <div>
  Welcome to my GitHub profile! I'm a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in Full stack development 
 
-- 💻 Currently, I'm working as a full stack developer, utilizing my expertise in front-end and back-end to develop robust web applications.
-- 🌟 Core Skills: I'm proficient in front-end technologies like HTML5, CSS3, JavaScript, and React, along with back-end development using Node.js and Express. My expertise in MongoDB allows me to design efficient and reliable databases that cater to complex application needs.
+- 💻 Currently, I'm working as a Full stack developer, utilizing my expertise in front-end and back-end to develop robust web applications.
+- 🌟 Core Skills: I'm proficient in front-end technologies like HTML5, CSS3, JavaScript, React, and Next js along with back-end development using Node.js and Express. My expertise in MongoDB allows me to design efficient and reliable databases that cater to complex application needs.
 - ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abhijith-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith--v/)
 </div>
