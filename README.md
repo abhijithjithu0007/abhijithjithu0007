@@ -7,7 +7,7 @@
 <br>
 <br>
 <div align="center">
-  I'm Abhijith, a dedicated Full Stack Developer
+  I'm Abhijith, a self-taught and dedicated Full Stack Developer
 </div>
 <br>
 <br>
