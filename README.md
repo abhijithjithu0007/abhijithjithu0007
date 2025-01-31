@@ -24,14 +24,6 @@
 <br>
 <br>
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhijithjithu0007&show_icons=true&theme=blue" alt="Abhijith's GitHub Stats" />
-</div>
-
-
-<br>
-
 ### 🔧 Languages & Tools
 
 <div align="center" style="padding: 0 20px;">
