@@ -27,7 +27,7 @@
 ### 🔧 Languages & Tools
 
 <div align="center" style="padding: 0 20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,nodejs,express,mongodb,git,postman,sass,tailwind,jest,materialui,mysql" alt="Languages & Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,nodejs,express,mongodb,git,postman,sass,tailwind,jest,materialui,mysql,redis" alt="Languages & Tools" />
 </div>
 
 
