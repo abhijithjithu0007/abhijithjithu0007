@@ -1,25 +1,17 @@
- 
+ <p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
    
-<div style="width:100%;height:0;padding-bottom:64%;position:relative;">
-  <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" width="100%" height="410px" style="position:absolute;" allowFullScreen>
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abhijith!;I'm+a+MERN+Stack+Developer...;An+Aspiring+fullstack+developer+from+india)](https://git.io/typing-svg)
 
-<br>
-<br>
-<div align="center">
-  I'm Abhijith, a self-taught and dedicated Full Stack Developer
-</div>
-<br>
-<br>
+- 🔭 I’m currently profecient on **MERN STACK**
 
-<div>
-  Welcome to my GitHub profile! I am a passionate Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India, specializing in crafting high-quality web applications.
+- 🌱 I’m currently learning more about **MERN STACK**
 
-  - 💻 **Current Role**: I serve as a Full Stack Developer, leveraging my expertise in both front-end and back-end technologies to create robust and scalable web solutions.
-  - 🌟 **Core Skills**: I possess a strong command of front-end technologies, including HTML5, CSS3, JavaScript, React, and Next.js. Additionally, I excel in back-end development with Node.js and Express, and my proficiency in MongoDB empowers me to design efficient and reliable databases tailored to meet the complex needs of modern applications.
-  - ⚡ **Personal Interests**: In my spare time, I enjoy delving into the latest technological advancements and staying abreast of emerging trends and best practices within the tech industry.
-  - 📫 **Connect with Me**: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Abhijith-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith--v/)
-</div>
+- 💬 Ask me about **HTML,CSS,JS.**
+
+- 📫 How to reach me **abhijithabhi36151@gmail.com**
+
 
 <br>
 <br>
@@ -29,11 +21,20 @@
 <div align="center" style="padding: 0 20px;">
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,redux,nodejs,express,mongodb,git,postman,sass,tailwind,jest,materialui,mysql,redis" alt="Languages & Tools" />
 </div>
+<hr/>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhijithjithu0007&theme=gruvbox" alt="abhijithjithu0007"  /></p>
 
-<br>
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijithjithu0007&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhijithjithu0007&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
 
-<br>
+<hr>
+
 <br>
 
 ## Connect with Me 🤝
