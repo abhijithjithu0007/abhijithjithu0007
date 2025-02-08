@@ -1,8 +1,4 @@
- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abhijith!;I'm+a+MERN+Stack+Developer...;An+Aspiring+fullstack+developer+from+india)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abhijith!;I'm+a+MERN+Stack+Developer...;An+Aspiring+fullstack+developer+from+india)](https://git.io/typing-svg)
 
 - 🔭 I’m currently profecient on **MERN STACK**
 
