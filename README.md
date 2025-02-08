@@ -1,5 +1,9 @@
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abhijith!;I'm+a+MERN+Stack+Developer...;An+Aspiring+fullstack+developer+from+india)](https://git.io/typing-svg)
 
+
+**My Personal Portfolio**: https://abhijithabhi.vercel.app
+<br>
+<br>
 - 🔭 I’m currently profecient on **MERN STACK**
 
 - 🌱 I’m currently learning more about **MERN STACK**
@@ -10,7 +14,6 @@
 
 
 <br>
-My Personal Portfolio: https://abhijithabhi.vercel.app
 <br>
 
 
