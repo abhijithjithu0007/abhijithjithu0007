@@ -16,8 +16,6 @@
 <br>
 <br>
 
-### 🔧 Languages & Tools
-
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -87,7 +85,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhijithjithu0007&theme=gruvbox" alt="abhijithjithu0007"  /></p>
 
-<hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
