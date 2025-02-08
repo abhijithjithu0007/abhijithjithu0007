@@ -10,6 +10,7 @@
 
 
 <br>
+My Personal Portfolio: https://abhijithabhi.vercel.app
 <br>
 
 
@@ -88,9 +89,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abhijithjithu0007&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
-<hr>
-
 <br>
+<br>
+
 
 ## Connect with Me 🤝
 <div align="center">
