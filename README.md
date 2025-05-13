@@ -1,7 +1,6 @@
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Abhijith!;I'm+a+MERN+Stack+Developer...;An+Aspiring+fullstack+developer+from+india)](https://git.io/typing-svg)
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+My+self+Abhijith!;I'm+a+MERN+Stack+Developer...;An+Aspiring+Fullstack+developer+from+india)](https://git.io/typing-svg)
 
 
-**Hi there👋**
 
 &nbsp;&nbsp;🚀 Architecting scalable MERN stack solutions and transforming complex requirements into seamless web experiences as a self-taught developer.  
 &nbsp;&nbsp;💻 Mastering responsive web applications through React.js, wielding TypeScript and crafting efficient state management with Redux and Zustand.  
