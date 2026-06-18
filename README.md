@@ -58,20 +58,6 @@
 
 
 <hr/>
-<br>
-
-**🛠️ Projects**
-1. [Task Management App](https://github.com/abhijithjithu0007/Doque-client.git)  
-    Centralized task management app built with a team using Next.js and Node.js.
-
-2. [Recipe App](https://github.com/abhijithjithu0007/Allrecipes-clone-client.git)  
-   Next.js powered clone of the popular Allrecipes app.
-
-3. [E-Commerce App](https://github.com/abhijithjithu0007/Furniqo-E-Commerce.git)  
-   Furniture e-commerce site built with React and Redux.
-
-4. [Expense Tracker](https://github.com/abhijithjithu0007/Vault-IQ-expense-tracker.git)  
-   A simple expense tracker built with React to monitor personal finances.
 
 <br>
 
